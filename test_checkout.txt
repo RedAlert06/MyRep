@@ -1,4 +1,2 @@
 test of checkout feature for returning to commit
 newline
-new_newline
-and some new line
