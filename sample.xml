@@ -1,2 +1,20 @@
-#this is xml file
+<?xml version="1.0" encoding="UTF-8"?>
 
+<People>
+
+    <Person id="1">
+        <FirstName>John</FirstName>
+        <LastName>Doe</LastName>
+        <Email>jodoe22@mail.com</Email>
+
+    <Person id="2">
+        <FirstName>Nadia</FirstName>
+        <LastName>Sarema</LastName>
+        <Email>nadia_s@mail.com</Email>
+    
+    <Person id="3">
+        <FirstName>Victor</FirstName>
+        <LastName>Bow</LastName>
+        <Email>v.bow110@mail.com</Email>
+
+</People>        
